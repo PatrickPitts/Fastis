@@ -1,0 +1,13 @@
+.text{
+    -fx-font-family: 'sans-serif';
+    -fx-font-size: 2em;
+    -fx-background-color: lightgrey;
+}
+
+.text:focused{
+    -fx-background-color:darkturquoise;
+}
+
+.root{
+    -fx-background-color: lightgrey;
+}
