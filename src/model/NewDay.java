@@ -4,6 +4,6 @@ public class NewDay extends ICalendarEvent {
 
     @Override
     public String toString() {
-        return "NewDay{}";
+        return "Second Day";
     }
 }
